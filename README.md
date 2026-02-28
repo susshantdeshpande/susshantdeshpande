@@ -1,37 +1,26 @@
-# 👋 Hi, I'm Sushant Deshpande
+<h1 align="center">👋 Hi, I'm Sushant Deshpande</h1>
+<h3 align="center">☁️ Cloud Computing Learner | AWS Enthusiast | Future DevOps Engineer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-S3-orange" />
+  <img src="https://img.shields.io/badge/AWS-EC2-blue" />
+  <img src="https://img.shields.io/badge/IAM-Security-yellow" />
+  <img src="https://img.shields.io/badge/GitHub-Active-black" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AWS+S3+Deployment;Amazon+EC2+Hosting;Learning+Kubernetes;Cloud+Engineer+Journey" />
+</p>
+
+## 🛠 Skills
+
+| Cloud | DevOps | Tools |
+|-------|--------|-------|
+| AWS S3 | Linux | Git |
+| Amazon EC2 | IAM | GitHub |
+| Basic Networking | Security Groups | VS Code |
 
 ## 👨‍💻 About Me
 
-I am a Cloud Computing learner with hands-on experience in deploying static websites using AWS S3 and Amazon EC2.
-
-✔️ AWS Free Tier Deployment Experience  
-✔️ IAM Configuration & Security Groups  
-✔️ Static Website Hosting  
-✔️ GitHub Version Control  
-
-Currently learning: Kubernetes & DevOps fundamentals.
-
-## 🚀 Cloud Projects
-
-![AWS S3](https://img.shields.io/badge/AWS-S3%20Static%20Website-orange)
-![Amazon EC2](https://img.shields.io/badge/AWS-EC2-blue)
-![Deployment](https://img.shields.io/badge/Deployment-Live-success)
-![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black)
-
-## 🌐 Live Project
-
-🔹 Static Website (Hosted on GitHub Pages)
-👉 https://susshantdeshpande.github.io/aws-s3-static-website/
-
-### 📌 Projects Completed
-- Deployed Static Website on AWS S3
-- Hosted Website using Amazon EC2
-- Managed IAM & Bucket Permissions
-
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=susshantdeshpande)
-
-![GitHub Followers](https://img.shields.io/github/followers/susshantdeshpande?style=social)
-
-![GitHub Stars](https://img.shields.io/github/stars/susshantdeshpande?style=social)
+Cloud Computing learner with hands-on experience in AWS Free Tier deployments.  
+Focused on building real-world cloud projects and strengthening DevOps fundamentals.

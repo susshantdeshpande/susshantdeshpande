@@ -20,10 +20,29 @@
 | Amazon EC2 | IAM | GitHub |
 | Basic Networking | Security Groups | VS Code |
 
-| Project | Description | Link |
-|---------|------------|------|
-| AWS S3 Static Site | Static website deployment | [Live](https://susshantdeshpande.github.io/aws-s3-static-website/) |
-| EC2 Hosting | Website hosted on EC2 | Repository |
+## 🚀 Featured Projects
+
+### 🌐 AWS Static Website Deployment
+✔️ Designed and deployed static website using AWS S3 (Free Tier)  
+✔️ Configured bucket policies for public access  
+✔️ Implemented IAM permissions  
+
+🔗 Live Demo:  
+https://susshantdeshpande.github.io/aws-s3-static-website/
+
+🔗 Repository:  
+https://github.com/Susshantdeshpande/aws-s3-static-website
+
+---
+
+### ☁️ Amazon EC2 Hosting Project
+✔️ Launched EC2 instance  
+✔️ Configured security groups  
+✔️ Hosted website using public IP  
+
+(Deployment performed using AWS Free Tier for learning purpose)
+
+---
 
 ## 👨‍💻 About Me
 

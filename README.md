@@ -1,40 +1,20 @@
-[12:22 pm, 28/2/2026] Sushant: <!-- PREMIUM HERO SECTION -->
+<!-- ================= HERO SECTION ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sushant%20Deshpande&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h3 align="center">
-  ☁️ Cloud Computing Learner | AWS Enthusiast | Future DevOps Engineer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=Deploying+Websites+on+AWS+S3;Hosting+Applications+on+EC2;Managing+IAM+%26+Security+Groups;Learning+Kubernetes+%26+DevOps" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Sushant%20Deshpande&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Susshantdeshpande&label=Profile…
-[12:26 pm, 28/2/2026] Sushant: <!-- ================= HERO SECTION ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sushant%20Deshpande&fontSize=50&fontColor=00FFD1&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h3 align="center">
-  ☁️ Cloud Computing Learner | AWS Enthusiast | Future DevOps Engineer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Deploying+Projects+on+AWS;Hosting+Apps+on+EC2;Managing+IAM+%26+Security;Learning+Kubernetes+%26+DevOps" />
+  <b>☁️ Cloud Computing Learner | AWS Enthusiast | Future DevOps Engineer</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Susshantdeshpande&label=PROFILE+VIEWS&color=0E75B6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Susshantdeshpande?style=for-the-badge&color=181717" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Projects+on+AWS;Deploying+Websites+with+S3;Hosting+Apps+on+EC2;Learning+DevOps+%26+Kubernetes" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Susshantdeshpande&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 <!-- ================= ABOUT ME ================= -->
 
 ## 🧑‍💻 About Me

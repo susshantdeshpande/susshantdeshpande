@@ -91,6 +91,12 @@ https://github.com/Susshantdeshpande/aws-s3-static-website
 
 ---
 
+## 📊 GitHub Performance Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Susshantdeshpande/Susshantdeshpande/main/github-metrics.svg" />
+</p>
+
 ## 🚀 Currently Learning
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>

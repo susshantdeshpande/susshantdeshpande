@@ -12,8 +12,8 @@
 - Hosted Website using Amazon EC2
 - Managed IAM & Bucket Permissions
 
- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=susshantdeshpande&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=susshantdeshpande&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susshantdeshpande&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=susshantdeshpande&layout=compact)

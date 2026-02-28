@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Sushant Deshpande</h1>
-
 <h3 align="center">☁️ Cloud Computing Learner | AWS Enthusiast | Future DevOps Engineer</h3>
 
 <p align="center">

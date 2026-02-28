@@ -1,9 +1,15 @@
 # 👋 Hi, I'm Sushant Deshpande
 
-🌐 Live Project
+## 👨‍💻 About Me
 
-🔹 Static Website (Hosted on GitHub Pages)
-👉 https://susshantdeshpande.github.io/aws-s3-static-website/
+I am a Cloud Computing learner with hands-on experience in deploying static websites using AWS S3 and Amazon EC2.
+
+✔️ AWS Free Tier Deployment Experience  
+✔️ IAM Configuration & Security Groups  
+✔️ Static Website Hosting  
+✔️ GitHub Version Control  
+
+Currently learning: Kubernetes & DevOps fundamentals.
 
 ## 🚀 Cloud Projects
 
@@ -11,6 +17,11 @@
 ![Amazon EC2](https://img.shields.io/badge/AWS-EC2-blue)
 ![Deployment](https://img.shields.io/badge/Deployment-Live-success)
 ![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black)
+
+🌐 Live Project
+
+🔹 Static Website (Hosted on GitHub Pages)
+👉 https://susshantdeshpande.github.io/aws-s3-static-website/
 
 ### 📌 Projects Completed
 - Deployed Static Website on AWS S3

@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Sushant Deshpande
 
+🌐 Live Project
+
+🔹 Static Website (Hosted on GitHub Pages)
+👉 https://susshantdeshpande.github.io/aws-s3-static-website/
+
 ## 🚀 Cloud Projects
 
 ![AWS S3](https://img.shields.io/badge/AWS-S3%20Static%20Website-orange)

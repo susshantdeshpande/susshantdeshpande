@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Sushant Deshpande
 
-<!--
-**susshantdeshpande/susshantdeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Cloud Projects
 
-Here are some ideas to get you started:
+![AWS S3](https://img.shields.io/badge/AWS-S3%20Static%20Website-orange)
+![Amazon EC2](https://img.shields.io/badge/AWS-EC2-blue)
+![Deployment](https://img.shields.io/badge/Deployment-Live-success)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects Completed
+- Deployed Static Website on AWS S3
+- Hosted Website using Amazon EC2
+- Managed IAM & Bucket Permissions

@@ -18,7 +18,7 @@ Currently learning: Kubernetes & DevOps fundamentals.
 ![Deployment](https://img.shields.io/badge/Deployment-Live-success)
 ![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black)
 
-🌐 Live Project
+## 🌐 Live Project
 
 🔹 Static Website (Hosted on GitHub Pages)
 👉 https://susshantdeshpande.github.io/aws-s3-static-website/

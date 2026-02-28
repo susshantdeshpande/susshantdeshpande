@@ -1,4 +1,8 @@
 <h1 align="center">👋 Hi, I'm Sushant Deshpande</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Susshantdeshpande&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 <h3 align="center">☁️ Cloud Computing Learner | AWS Enthusiast | Future DevOps Engineer</h3>
 
 <p align="center">

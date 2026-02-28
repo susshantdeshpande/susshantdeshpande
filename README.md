@@ -14,6 +14,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=susshantdeshpande&show_icons=true)
+![GitHub Stats](https://api.github-readme-stats.vercel.app/api?username=susshantdeshpande&show_icons=true&cache_seconds=60)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=susshantdeshpande&layout=compact)
+![Top Languages](https://api.github-readme-stats.vercel.app/api/top-langs/?username=susshantdeshpande&layout=compact&cache_seconds=60)

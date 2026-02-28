@@ -12,8 +12,10 @@
 - Hosted Website using Amazon EC2
 - Managed IAM & Bucket Permissions
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://api.github-readme-stats.vercel.app/api?username=susshantdeshpande&show_icons=true&cache_seconds=60)
+![Profile Views](https://komarev.com/ghpvc/?username=susshantdeshpande)
 
-![Top Languages](https://api.github-readme-stats.vercel.app/api/top-langs/?username=susshantdeshpande&layout=compact&cache_seconds=60)
+![GitHub Followers](https://img.shields.io/github/followers/susshantdeshpande?style=social)
+
+![GitHub Stars](https://img.shields.io/github/stars/susshantdeshpande?style=social)

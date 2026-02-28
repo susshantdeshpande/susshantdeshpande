@@ -11,3 +11,9 @@
 - Deployed Static Website on AWS S3
 - Hosted Website using Amazon EC2
 - Managed IAM & Bucket Permissions
+
+ ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=susshantdeshpande&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susshantdeshpande&layout=compact)

@@ -13,6 +13,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AWS+S3+Deployment;Amazon+EC2+Hosting;Learning+Kubernetes;Cloud+Engineer+Journey" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Susshantdeshpande&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud & Networking

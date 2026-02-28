@@ -12,14 +12,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AWS+S3+Deployment;Amazon+EC2+Hosting;Learning+Kubernetes;Cloud+Engineer+Journey" />
 </p>
 
-## 🛠 Skills
+---
 
-| Cloud | DevOps | Tools |
-|-------|--------|-------|
-| AWS S3 | Linux | Git |
-| Amazon EC2 | IAM | GitHub |
-| Basic Networking | Security Groups | VS Code |
+## 🛠 Tech Stack
 
+### ☁️ Cloud & Networking
+<p>
+  <img src="https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Amazon-EC2-blue?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/IAM-Security-yellow?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Basic-Networking-lightgrey?style=for-the-badge" />
+</p>
+
+### 🖥 DevOps & System
+<p>
+  <img src="https://img.shields.io/badge/Linux-Server-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Security-Groups-green?style=for-the-badge" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode" />
+</p>
+
+---
 ## 🚀 Featured Projects
 
 ### 🌐 AWS Static Website Deployment

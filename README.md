@@ -38,7 +38,7 @@ https://susshantdeshpande.github.io/aws-s3-static-website/
 🔗 Repository:  
 https://github.com/Susshantdeshpande/aws-s3-static-website
 
-🌐 AWS Application Load Balancer Project
+### 🌐 AWS Application Load Balancer Project
 
 * Deployed a web application using EC2 instances  
 * Configured AWS Application Load Balancer  

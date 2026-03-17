@@ -63,10 +63,13 @@ https://github.com/sushantdeshpande/sushant-load-balancer-project/
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-S3-orange?style=flat&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Amazon-EC2-blue?style=flat&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/IAM-Security-yellow?style=flat&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Linux-Server-black?style=flat&logo=linux" />
+ ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![S3](https://img.shields.io/badge/AWS-S3-red)
+![EC2](https://img.shields.io/badge/AWS-EC2-blue)
+![IAM](https://img.shields.io/badge/AWS-IAM-yellow)
+![Linux](https://img.shields.io/badge/Linux-Server-black)
+![ELB](https://img.shields.io/badge/AWS-Elastic_Load_Balancer-green)
+![AutoScaling](https://img.shields.io/badge/AWS-Auto_Scaling-purple)
 </p>
 
 ---
